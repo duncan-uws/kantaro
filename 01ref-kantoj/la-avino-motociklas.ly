@@ -3,7 +3,7 @@
 
 \score {
 	\header {
-	title = "La avino motociklas"
+	title = "La avino motorciklas"
 	subtitle = "Originala titolo: Meine Oma fährt im Hühnerstall Motorrad"
 %	subsubtitle = "Tradukis"
 	}
@@ -38,7 +38,7 @@
         La a -- vi -- no en ku -- ke -- jo mo -- to -- ci -- klas,
            }
         \alternative {
-         { mo -- to -- ci -- klas, mo -- to -- ci -- klas,}
+         { mo -- tor -- ci -- klas, mo -- to -- ci -- klas,}
          { la a -- vi -- no es -- tas tre mo -- der -- na in. }
         }
 	} %addlyrics
